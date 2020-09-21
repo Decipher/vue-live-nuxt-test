@@ -1,0 +1,17 @@
+{
+  "name": "vuelive",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.5",
+    "vue-live": "^1.13.1"
+  },
+  "devDependencies": {}
+}
